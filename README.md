@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Atskyr/Atskyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,49 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Atskyr 
-Atskyr
-/
-README.md
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Atskyr/README.md
- 1 branch
- 0 tags
-Latest commit
-@Atskyr
-Atskyr Rename README.md to README
-c0e9b58
-2 minutes ago
-Git stats
- 3 commits
-Files
-Type
-Name
-Latest commit message
-Commit time
-README
-Rename README.md to README
-2 minutes ago
-README
+
 ## 🌐 LINKEDIN:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KyriakosAtsalakis) 
@@ -72,38 +26,3 @@ README
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Atskyr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-About
-No description, website, or topics provided.
-Topics
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Environments 1
- github-pages Queued
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
