@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any fintech related project.
 - 🤔 I’m looking for help with track record certification.
 - 💬 Ask me about any fintech stuff.
-- 📫 How to reach me: [...](https://www.linkedin.com/in/kyriakos-atsalakis-498346221/)
+- 📫 How to reach me: (https://linkedin.com/in/KyriakosAtsalakis)](https://www.linkedin.com/in/kyriakos-atsalakis-498346221/)
 - 😄 
 - ⚡ Fun fact: i ve spend almost 15000 hours watching tickers in a 4 year span..
 
