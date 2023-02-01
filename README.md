@@ -15,7 +15,7 @@
 I have a passion for :
 
 
-Graph Theory,Application in Finance,Machine Learning,Generating Alpha💪
+Quantitive Finance,Machine Learning,Generating Alpha,Game theory💪
 
 
 If you look for collaboration in these fields or happen to know anyone who shares the same enthusiasm, please kindly refer to me, thank you!
