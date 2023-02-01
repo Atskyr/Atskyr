@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on quantitive risk management.
 - 🌱 I’m currently learning more about blockchain.
 - 👯 I’m looking to collaborate on any fintech related project.
-- 🤔 I’m looking for help with track record certificatin.
+- 🤔 I’m looking for help with track record certification.
 - 💬 Ask me about any fintech stuff.
 - 📫 How to reach me: [...](https://www.linkedin.com/in/kyriakos-atsalakis-498346221/)
 - 😄 
